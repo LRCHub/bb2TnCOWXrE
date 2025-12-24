@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Rat A Tat",
+  "base_artist": "Midnight Grand Orchestra",
+  "createdAt": "2025-12-24T13:24:04.762628Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rat A Tat",
+      "artist": "Fall Out Boy feat. Courtney Love",
+      "has_synced": true,
+      "path": "select/01_Rat_A_Tat_Fall_Out_Boy_feat._Courtney_Love.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rat A Tat (Feat. Courtney Love)",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/02_Rat_A_Tat_(Feat._Courtney_Love)_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rat A Tat",
+      "artist": "Fall Out Boy/Courtney Love",
+      "has_synced": true,
+      "path": "select/03_Rat_A_Tat_Fall_Out_Boy_Courtney_Love.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rat A Tat - Commentary",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/04_Rat_A_Tat_-_Commentary_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rat A Tat",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/05_Rat_A_Tat_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rat A Tat (feat. Courtney Love)",
+      "artist": "Fall Out Boy, Courtney Love",
+      "has_synced": true,
+      "path": "select/06_Rat_A_Tat_(feat._Courtney_Love)_Fall_Out_Boy,_Courtney_Love.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Better Than This (Rat a Tat) (feat. Courtney Love)",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/07_Better_Than_This_(Rat_a_Tat)_(feat._Courtney_Love)_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rat A Tat (Album Version)",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/08_Rat_A_Tat_(Album_Version)_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rat A Tat (Feat. Courtney Love)",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/09_Rat_A_Tat_(Feat._Courtney_Love)_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rat a Tat",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/10_Rat_a_Tat_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rat A Tat (Album Version)",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/11_Rat_A_Tat_(Album_Version)_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rat A Tat!!!",
+      "artist": "MILLIONSTARS (春日未来、最上静香、伊吹 翼)",
+      "has_synced": true,
+      "path": "select/12_Rat_A_Tat!!!_MILLIONSTARS_(春日未来、最上静香、伊吹_翼).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rat A Tat!!!",
+      "artist": "MILLIONSTARS",
+      "has_synced": true,
+      "path": "select/13_Rat_A_Tat!!!_MILLIONSTARS.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Rat-a-Tat-Tat",
+      "artist": "Giggs feat. Kyze",
+      "has_synced": true,
+      "path": "select/14_Rat-a-Tat-Tat_Giggs_feat._Kyze.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Rat-A-Tat-Tat (feat. KYZE)",
+      "artist": "Giggs",
+      "has_synced": true,
+      "path": "select/15_Rat-A-Tat-Tat_(feat._KYZE)_Giggs.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Rat a Tat",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/16_Rat_a_Tat_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Rat A Tat!!!",
+      "artist": "MILLIONSTARS",
+      "has_synced": false,
+      "path": "select/17_Rat_A_Tat!!!_MILLIONSTARS.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "RAT A TAT WRITER",
+      "artist": "FAKE TYPE.",
+      "has_synced": true,
+      "path": "select/18_RAT_A_TAT_WRITER_FAKE_TYPE..lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Rat A Tat",
+      "artist": "Midnight Grand Orchestra",
+      "has_synced": true,
+      "path": "select/19_Rat_A_Tat_Midnight_Grand_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Rat‐a‐tat",
+      "artist": "DCVDNS & Tamas",
+      "has_synced": false,
+      "path": "select/20_Rat‐a‐tat_DCVDNS_&_Tamas.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rat A Tat",
+      "artist": "Midnight Grand Orchestra",
+      "has_synced": false,
+      "path": "select/pl_01_Rat_A_Tat_Midnight_Grand_Orchestra.txt"
+    }
+  ]
+}
